@@ -1,0 +1,126 @@
+*{
+    
+    font-family: 'Roboto',
+    sans-serif;
+    color:#3E3E3E;
+}
+header,.welcome-section, .review-section{
+    background: #fa804c14;
+}
+.highlight{
+    font-family: 'Bebas Neue',
+    cursive;
+    color: #FA804C;
+
+}
+h1,h2{
+ font-family: 'Bebas Neue',cursive;
+ text-transform: uppercase;
+ color: #363958;
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 44px;
+}
+h3{
+    font-family: 'Roboto',
+    sans-serif;
+    color:#FA804C;
+}
+h4{
+    color: #363958;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    color:#3E3E3E;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -ms-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+}
+a:hover{
+    color:#FA804C;
+}
+.custom-btn{
+    background: #76C27E;
+    padding:7px 25px;
+    color:#ffffff;
+    text-transform: uppercase;
+    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -ms-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+}
+.custom-btn:hover{
+    background: #FA804C;
+    color:#ffffff;
+}
+.custom-btn img{
+    width: 25px;
+}
+.custom-btn:focus{
+    box-shadow: none;
+}
+header img{
+    width: 300px;
+}
+header li{
+    padding: 0 10px;
+}
+
+header a{
+    color: #3C3C3C !important;
+    font-weight: 700;
+    transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -ms-transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+}
+header a:hover{
+    color: #FA804C !important;
+}
+.welcome-section, .jacket-section, .services-section, .review-section, .blog-section {
+    padding: 50px 0;
+}
+.welcome-img img,
+.services-img img {
+width: 500px;
+}
+.card-img{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.card-icon img{
+    width: 50px;
+}
+.custom-indicators li{
+    box-sizing: border-box;
+    background: #FA804C !important;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.qoute-icon{
+    font-size: 40px;
+    color: #FA804C !important;
+}
+footer{
+    background:#fa804c14;
+    padding:20px 0;
+}
+
+
